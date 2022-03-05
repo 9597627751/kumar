@@ -19,7 +19,7 @@ public class Array3 {                           //Map program
 		m.put(50, "Java");
 		m.put(30, "oracle");
 		System.out.println(m);
-		
+System.out.println("kk");		
 //to find the size
 		 int size = m.size();
 		 System.out.println(size);
